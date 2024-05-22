@@ -45,3 +45,10 @@ Donut Chart (Difficulty to Break into Data):
 Visualizes the perceived difficulty of breaking into the data field.
 Categories include: Very Easy, Easy, Neither Easy nor Difficult, Difficult, and Very Difficult.
 Provides insight into the challenges faced by individuals when entering the data profession.
+
+
+
+
+![power bi ss](https://github.com/ShaikhMdRehan2209/Heart-Disease-Prediction-Model/assets/155943248/37f35602-f99f-485d-8bc5-1b696a0b2361)
+
+
